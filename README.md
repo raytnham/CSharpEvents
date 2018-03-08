@@ -66,7 +66,6 @@ As we can see, the event <strong>balanceChanged</strong> has been triggered when
 <a href="https://www.lynda.com/C-tutorials/C-Delegates-Events-Lambdas/370499-2.html">Lynda.com - C#: Delegates, Events and Lambdas - by Joe Marini</a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/" rel="noopener" target="_blank">Microsoft - Events (C# Programming Guide)</a>
 
-<strong>Full Source Code</strong>: <a href="https://github.com/raytnham/CSharpEvents/blob/master/EventsExample/EventsExample/Program.cs" rel="noopener" target="_blank">event-example-github</a>
 
 
 
